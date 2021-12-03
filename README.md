@@ -1,6 +1,8 @@
 # ROBOT_MOBILE_MANIPULATION
 Mobile manipulation of the 'youBot' using MATLAB and Coppelia Sim. 
 
+https://user-images.githubusercontent.com/94148624/144651005-47dedb5e-c35b-445d-a000-7225f11577b9.mp4
+
 'Code':
 
 - Runscript.m: initialize all variables, create a robot object from the Robot class,
