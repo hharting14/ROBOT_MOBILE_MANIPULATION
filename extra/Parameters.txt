@@ -1,0 +1,7 @@
+Parameters used in 'overshoot' case: 
+
+T_duration = 14;
+MyRobot.q = [0, 0, 0];
+MyRobot.theta = [0, 0, 0.2, -1.67, 0]';
+MyRobot.kp = 3.0;
+MyRobot.ki = 3.0;
