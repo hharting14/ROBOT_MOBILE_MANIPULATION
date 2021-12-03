@@ -29,9 +29,6 @@ Modern Robotics library for MATLAB. Available in http://hades.mech.northwestern.
 
 - Sim: final movement of the robot in Coppelia Sim.
 - ErrorPlot: plot of the 6 errors for angular and linear velocities vs time.
-
-![errorPlot](https://user-images.githubusercontent.com/94148624/144655524-55e8b6b5-e635-4077-8d85-679fca3750cd.PNG)
-
 - Log: console output in MATLAB.
 - Trayectory: csv file with the trayectory generated for the robot.
 - Xerr: MATLAB file with the error data.
@@ -41,6 +38,3 @@ Modern Robotics library for MATLAB. Available in http://hades.mech.northwestern.
 'extra':
 
 Tested an overshoot case when the error transient response can be appreciated. The parameters are specified.
-
-![errorPlot](https://user-images.githubusercontent.com/94148624/144655480-2abddaf4-940b-44f9-93b1-f1e0de382a10.PNG)
-
