@@ -34,3 +34,7 @@ Modern Robotics library for MATLAB. Available in http://hades.mech.northwestern.
 - Xerr: MATLAB file with the error data.
 - Animation: input file for the Coppelia Sim.
 - Parameters: according to the movement in the video.
+
+'extra':
+
+Tested an overshoot case when the error transient response can be appreciated. The parameters are specified.
