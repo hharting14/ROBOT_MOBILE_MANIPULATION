@@ -1,0 +1,11 @@
+Parameters used: 
+
+Cube initial and end configurations:
+T_sc_initial = RpToTrans(eye(3),[1,0.5,0.025]'); 
+T_sc_goal = RpToTrans(Rotz(-pi/2),[1,-0.5,0.025]');
+
+T_duration = 14;
+MyRobot.q = [0, 0, 0];
+MyRobot.theta = [0, 0, 0.2, -1.67, 0]';
+MyRobot.kp = 1.5;
+MyRobot.ki = 0;
